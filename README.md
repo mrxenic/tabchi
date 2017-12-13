@@ -4,6 +4,10 @@
 
 git clone https://Github.com/mrxenic/tabchi.git
 
+بعد دستور زیر رو میزنین:
+unzip tabchi.zip
+و بعد دستورات زیر:
+
 cd tabchi
 
 chmod +x install.sh
