@@ -4,9 +4,12 @@
 
 git clone https://Github.com/mrxenic/tabchi.git
 
-بعد دستور زیر رو میزنین:
+و سپس دستور
+
 unzip tabchi.zip
-و بعد دستورات زیر:
+
+و بعد
+
 
 cd tabchi
 
